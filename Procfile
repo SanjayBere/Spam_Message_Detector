@@ -1,0 +1,1 @@
+web: gunicorn SMS_flask_app:app
