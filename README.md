@@ -4,3 +4,5 @@
 
 • If you want to view the deployed model, click on the following link:
 Deployed at: https://spam-message-classifier-app.herokuapp.com/
+
+• Please do star the repository, if it helped you in anyway.
